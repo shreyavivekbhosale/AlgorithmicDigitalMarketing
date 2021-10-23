@@ -1,0 +1,300 @@
+Customer_id,Customer_name,Gender,Maritial_status,Employement_status,Age,Address,State,Customer_Segment
+1,Monica Federle,F,S,employed,43,300 1ST AVE,Alabama,Corporate
+2,Beth Paige,M,D,unemployed,63,311 SERVICE ROAD,Alaska,Consumer
+3,Bryan Davis,M,M,employed,59,500 LYNNFIELD STREET,Alabama,Corporate
+4,Carlos Daly,F,M,employed,31,800 WASHINGTON ROAD,Alaska,Home Office
+5,Muhammed MacIntyre,M,S,unemployed,51,680 CENTRE STREET,Arizona,Small Business
+6,Bryan Mills,F,S,employed,29,"60 HODGES AVE, BOX 151",Arkansas,Small Business
+7,Fred Wasserman,N,S,unemployed,17,365 EAST STREET,California,Home Office
+8,Filia McAdams,N,S,employed,65,119 BELMONT STREET,Colorado,Small Business
+9,Sanjit Chand,M,S,employed,68,111 HUNTOON MEMORIAL HIGHWAY,Connecticut,Home Office
+10,Luke Weiss,F,M,unemployed,72,1400 STATE STREET,Delaware,Corporate
+11,Rob Dowd,M,M,employed,69,199 OAK STREET,Florida,Corporate
+12,Tony Chapman,N,M,unemployed,66,45 CLAPBOARDTREE STREET,Georgia,Consumer
+13,Khloe Miller,M,M,employed,54,76 SUMMER STREET,Hawaii,Consumer
+14,Kristina Nunn,F,S,employed,76,150 FLANDERS RD,Alabama,Consumer
+15,Bobby Odegard,M,S,unemployed,23,145 WARD HILL AVE,Alaska,Corporate
+16,Adam Bellavance,F,S,employed,15,55 LAKE AVENUE NORTH,Arizona,Small Business
+17,Rick Reed,M,S,unemployed,34,309 BELMONT STREET,Arkansas,Consumer
+18,Anthony O'Donnell,M,D,employed,23,164 HIGH STREET,California,Consumer
+19,Sally Knutson,F,D,employed,33,330 BROOKLINE AVENUE,Colorado,Consumer
+20,Justin Hirsh,M,D,unemployed,34,88 EAST NEWTON STRET,Connecticut,Consumer
+21,Tony Chapman,F,D,employed,71,818 HARRISON AVENUE,Delaware,Consumer
+22,Cathy Armstrong,M,S,unemployed,58,300 LONGWOOD AVENUE,Alabama,Consumer
+23,Ivan Liston,F,S,employed,72,170 GOVERNORS AVENUE,Alaska,Consumer
+24,Sarah Jordon,F,M,employed,44,585 LEBANON STREET,Arizona,Consumer
+25,Jim Radford,F,M,unemployed,17,70 EAST STREET,Arkansas,Corporate
+26,Grant Carroll,F,M,employed,73,1493 CAMBRIDGE STREET,California,Corporate
+27,Grant Carroll,M,M,unemployed,30,759 CHESTNUT STREET,Colorado,Corporate
+28,Doug Bickford,M,S,employed,62,725 NORTH STREET,Connecticut,Corporate
+29,Sylvia Foulston,N,S,employed,59,27 PARK STREET,Alabama,Corporate
+30,Charles McCrossin,M,S,unemployed,75,30 LOCUST STREET,Alaska,Corporate
+31,Charles McCrossin,M,D,employed,58,242 GREEN STREET,Arizona,Corporate
+32,Cindy Schnelling,F,D,unemployed,42,ONE GENERAL STREET,Arkansas,Corporate
+33,Brendan Dodson,N,M,employed,46,1233 MAIN STREET,California,Corporate
+34,Jeremy Lonsdale,F,D,unemployed,38,140 LINCOLN AVENUE,Colorado,Corporate
+35,Alan Barnes,F,S,employed,42,2030 LAY DAM ROAD,Connecticut,Corporate
+36,Jim Radford,M,M,employed,71,67 UNION STREET,Delaware,Corporate
+37,Jack Lebron,M,M,unemployed,15,88 WASHINGTON STREET,Florida,Corporate
+38,Hilary Holden,M,S,employed,30,330 MOUNT AUBURN STREET,Georgia,Corporate
+39,Joy Smith,F,M,unemployed,76,200 GROTON ROAD,Hawaii,Corporate
+40,Jack Lebron,N,S,employed,23,2014 WASHINGTON STREET,Idaho,Corporate
+41,Jack Lebron,M,M,employed,16,85 HERRICK STREET,IllinoisIndiana,Corporate
+42,Jack Lebron,F,S,unemployed,20,795 MIDDLE STREET,Iowa,Corporate
+43,Hilary Holden,M,M,employed,35,123 SUMMER STREET,Kansas,Corporate
+44,Erica Bern,M,S,unemployed,15,ONE HOSPITAL ROAD,Kentucky,Corporate
+45,Evan Minnotte,M,S,employed,66,55 FOGG ROAD,Alabama,Corporate
+46,Jack Lebron,M,D,employed,71,363 HIGHLAND AVENUE,Alaska,Corporate
+47,Jack Lebron,M,M,unemployed,53,101 PAGE STREET,Arizona,Corporate
+48,Hilary Holden,F,M,employed,40,211 PARK STREET,Arkansas,Corporate
+49,Guy Armstrong,M,S,unemployed,67,736 CAMBRIDGE STREET,California,Corporate
+50,Greg Guthrie,F,S,employed,62,41 HIGHLAND AVENUE,Colorado,Corporate
+51,Guy Armstrong,F,S,employed,18,PO BOX 2568,Connecticut,Corporate
+52,Jim Sink,M,S,unemployed,16,223 HOSPITAL STREET,Delaware,Corporate
+53,Sally Knutson,M,S,employed,67,MEDICAL CENTER BLVD,Florida,Corporate
+54,Brian Moss,F,M,unemployed,29,8105 VETERANS WAY,Alabama,Corporate
+55,Sonia Sunley,N,M,employed,57,2700 HOSPITAL DRIVE,Alaska,Corporate
+56,Roy Skaria,F,M,employed,29,201 W. AVALON AVENUE,Arizona,Corporate
+57,Lela Donovan,F,M,unemployed,64,1256 MILITARY STREET SOUTH,Arkansas,Corporate
+58,Shahid Shariari,F,S,employed,68,209 NORTH MAIN STREET,California,Corporate
+59,Lela Donovan,M,S,unemployed,58,"1000 FIRST STREET, NORTH",Colorado,Corporate
+60,Sally Knutson,F,S,employed,30,205 MARENGO STREET,Connecticut,Corporate
+61,Dana Kaydos,N,S,employed,72,8000 ALABAMA HIGHWAY 69,Delaware,Corporate
+62,Bruce Stewart,F,D,unemployed,43,1108 ROSS CLARK CIRCLE,Florida,Corporate
+63,Bill Eplett,F,D,employed,24,820 WEST WASHINGTON STREET,Georgia,Corporate
+64,Thomas Seio,F,D,unemployed,21,295 JACKSON HIGHWAY S,Hawaii,Home Office
+65,Beth Thompson,M,D,employed,55,215 PERRY HILL RD,Idaho,Corporate
+66,Helen Abelman,F,S,employed,70,401 MEDICAL PARK DR.,IllinoisIndiana,Home Office
+67,Joy Smith,M,S,unemployed,45,150 HOSPITAL DRIVE,Iowa,Consumer
+68,Kimberly Carter,M,M,employed,21,750 MORPHY AVENUE,Alabama,Small Business
+69,Emily Grady,F,M,unemployed,26,1007 GOODYEAR AVENUE,Alaska,Home Office
+70,Thomas Brumley,M,M,employed,73,201 MARIARDEN ROAD,Arizona,Consumer
+71,Art Ferguson,M,M,unemployed,30,3316 HIGHWAY 280,Arkansas,Corporate
+72,Mary O'Rourke,M,S,employed,46,400 NORTHWOOD DRIVE,California,Home Office
+73,Hallie Redmond,F,S,employed,36,"700 WEST MARKET ST,2ND FLOOR",Colorado,Small Business
+74,Carlos Soltero,N,S,unemployed,60,7400 ROPER LANE,Connecticut,Consumer
+75,Beth Paige,M,D,unemployed,67,1613 NORTH MCKENZIE STREET,Delaware,Consumer
+76,Becky Castell,F,D,employed,25,5800 SOUTHLAND DRIVE,Florida,Consumer
+77,Harold Engle,F,M,employed,45,400 EAST 10TH STREET,Georgia,Consumer
+78,Joy Smith,N,D,unemployed,20,400 EAST TENTH STREET,Hawaii,Consumer
+79,Gene Hale,F,S,employed,18,700 WEST MARKET STREET,Idaho,Consumer
+80,Rob Haberlin,F,M,unemployed,70,1815 HAND AVENUE,IllinoisIndiana,Consumer
+81,Joy Smith,M,M,employed,25,700 S 19TH ST S,Iowa,Consumer
+82,Justin Hirsh,M,S,employed,38,2010 BROOKWOOD MEDICAL CENTER DRIVE,Kansas,Consumer
+83,Justin Hirsh,M,M,unemployed,30,"1600 SEVENTH AVENUE, SOUTH",Alabama,Consumer
+84,Barry Weirich,M,S,employed,38,3800 RIDGEWAY DRIVE,Alaska,Corporate
+85,Brendan Dodson,M,M,unemployed,41,"6869 FIFTH AVENUE, SOUTH",Arizona,Corporate
+86,Sylvia Foulston,F,S,employed,19,50 MEDICAL PARK EAST DRIVE,Arkansas,Corporate
+87,Dorothy Wardle,N,M,unemployed,42,800 MONTCLAIR ROAD,California,Corporate
+88,Alan Barnes,F,S,employed,61,810 ST. VINCENT'S DRIVE,Colorado,Corporate
+89,Jack Lebron,F,S,employed,39,50 MEDICAL PARK EAST DRIVE,Connecticut,Corporate
+90,Frank Price,F,D,unemployed,55,619 SOUTH 19TH STREET,Delaware,Corporate
+91,Jim Radford,M,M,unemployed,76,"2505 U.S. HIGHWAY 431, SOUTH",Florida,Corporate
+92,Jeremy Lonsdale,M,M,employed,64,1301 BELLEVILLE AVENUE,Georgia,Corporate
+93,Carlos Daly,F,S,employed,30,317 MCWILLIAMS AVENUE,Hawaii,Corporate
+94,Mike Pelletier,F,S,unemployed,67,241 ROBERT K. WILSON DRIVE,Idaho,Corporate
+95,Jamie Kunitz,M,S,employed,49,208 PIERSON AVENUE,IllinoisIndiana,Corporate
+96,Jamie Kunitz,F,S,unemployed,27,14600 ST. STEPHENS AVENUE,Iowa,Corporate
+97,Don Jones,F,S,employed,40,"105 U.S. HIGHWAY 80, EAST",Kansas,Corporate
+98,Sylvia Foulston,M,M,employed,32,700 EAST COTTONWOOD ROAD,Alabama,Corporate
+99,Hilary Holden,F,M,unemployed,22,"1108 ROSS CLARK CIRCLE,4TH FLOOR",Alaska,Corporate
+100,Erica Bern,F,M,employed,25,400 NORTH EDWARDS STREET,Arizona,Corporate
+101,Jack Lebron,F,M,unemployed,74,101 CRESTVIEW AVENUE,Arkansas,Corporate
+102,Christopher Schild,F,S,employed,32,"1653 TEMPLE AVENUE, NORTH",California,Corporate
+103,Dan Reichenbach,N,S,unemployed,70,3001 SCENIC HIGHWAY,Colorado,Corporate
+104,Logan Haushalter,M,S,employed,63,1200 WEST MAPLE AVENUE,Connecticut,Corporate
+105,Hilary Holden,M,S,employed,52,600 SOUTH THIRD STREET,Delaware,Corporate
+106,Hilary Holden,F,D,unemployed,67,29 L. V. STABLER DRIVE,Alabama,Corporate
+107,Guy Armstrong,M,D,employed,36,508 GREENE STREET,Alaska,Corporate
+108,Marina Lichtenstein,M,D,unemployed,76,ONE HOSPITAL DRIVE,Arizona,Corporate
+109,Luke Weiss,F,D,employed,20,5315 MILLENNIUM DRIVE,Arkansas,Corporate
+110,Roy Skaria,F,S,employed,19,4100 GOSS RD SW,California,Corporate
+111,Lisa DeCherney,F,S,unemployed,46,101 SIVLEY ROAD,Colorado,Corporate
+112,Rob Dowd,F,M,employed,79,220 HOSPITAL DRIVE,Connecticut,Corporate
+113,Shahid Shariari,F,M,unemployed,69,1701 SOUTH PELHAM ROAD,Delaware,Corporate
+114,Liz Price,N,M,employed,22,"3400 HIGHWAY 78, EAST",Florida,Corporate
+115,Charles Sheldon,M,M,unemployed,42,101 HOSPITAL CIRCLE,Georgia,Corporate
+116,Sean Wendt,M,S,employed,79,5 MOBILE INFIRMARY CENTER,Hawaii,Corporate
+117,Lycoris Saunders,F,S,employed,39,3719 DAUPHIN STREET,Idaho,Corporate
+118,Maria Bertelson,M,S,unemployed,41,2105 EAST SOUTH BOULEVARD,IllinoisIndiana,Corporate
+119,Meg O'Connel,M,D,employed,22,4465 NARROW LANE ROAD,Iowa,Corporate
+120,Ivan Gibson,M,D,unemployed,78,1725 PINE STREET,Alabama,Corporate
+121,Craig Carroll,F,M,employed,21,"1725 PINE STREET,5TH FLOOR, NORTH WING",Alaska,Corporate
+122,Bobby Odegard,F,D,unemployed,40,702 MAIN STREET,Arizona,Corporate
+123,Bill Donatelli,F,S,employed,70,126 HOSPITAL AVENUE,Arkansas,Corporate
+124,Bill Donatelli,F,M,employed,17,7063 VETERANS PARKWAY,California,Corporate
+125,Carlos Soltero,F,M,unemployed,78,211 HOSPITAL ROAD,Colorado,Consumer
+126,Annie Cyprus,M,S,employed,35,15155 HIGHWAY 43,Connecticut,Home Office
+127,Grant Carroll,M,M,unemployed,71,380 WOODS COVE ROAD,Delaware,Corporate
+128,Andrew Gjertsen,M,S,employed,74,1015 MEDICAL CENTER PARKWAY,Florida,Consumer
+129,Nicole Hansen,M,M,employed,35,1301 S.MONTGOMERY AVENUE,Georgia,Small Business
+130,Beth Paige,N,S,unemployed,23,315 WEST HICKORY STREET,Hawaii,Consumer
+131,Beth Paige,M,M,employed,26,604 STONE AVENUE,Idaho,Consumer
+132,Joy Bell,M,S,unemployed,78,201 UNIVERSITY BOULEVARD,IllinoisIndiana,Home Office
+133,Grant Carroll,M,S,employed,44,"809 UNIVERSITY BLVD EAST,4TH FLOOR",Iowa,Corporate
+134,Muhammed MacIntyre,N,D,employed,32,3701 LOOP RD E,Kansas,Small Business
+135,Beth Thompson,M,M,unemployed,23,2400 HOSPITAL RD,Kentucky,Corporate
+136,Carlos Daly,M,M,employed,45,102 WEST CONECUH AVENUE,Louisiana,Home Office
+137,Alan Barnes,N,S,unemployed,63,500 HOSPITAL DRIVE,Alabama,Corporate
+138,Julia West,F,S,employed,59,751 DERBY DRIVE,Alaska,Small Business
+139,Mike Pelletier,M,S,employed,69,"30 SHELBURNE ROAD,PO BOX 9317",Arizona,Corporate
+140,Fred Wasserman,M,S,unemployed,30,34 MAPLE ST,Arkansas,Home Office
+141,Nicole Hansen,F,S,employed,70,150 W WASHINGTON ST,California,Small Business
+142,Susan Vittorini,M,M,unemployed,15,1625 E JEFFERSON BLVD,Colorado,Corporate
+143,Chad Cunningham,F,M,employed,47,3630 GUION RD,Connecticut,Small Business
+144,Carl Ludwig,N,M,unemployed,66,"700 BROADWAY,7TH FL E",Delaware,Corporate
+145,Doug Bickford,N,M,employed,22,2050 MERCANTILE DRIVE,Florida,Corporate
+146,Claudia Miner,M,S,employed,33,615 DOUGLAS STREET,Georgia,Small Business
+147,Beth Paige,F,S,unemployed,61,3637 OLD VINEYARD ROAD,Hawaii,Consumer
+148,Claudia Miner,M,S,employed,22,700 WALTER REED DRIVE,Idaho,Small Business
+149,Julia West,N,S,employed,40,801 GREEN VALLEY ROAD,IllinoisIndiana,Consumer
+150,Mike Pelletier,M,D,unemployed,48,P.O. BOX 639,Iowa,Corporate
+151,Muhammed MacIntyre,F,D,employed,59,262 LEROY GEORGE DRIVE,Kansas,Small Business
+152,Eugene Barchas,M,D,unemployed,46,100 AIRPORT ROAD,Kentucky,Corporate
+153,Neola Schneider,F,D,employed,46,10628 PARK RD,Louisiana,Home Office
+154,Doug Bickford,M,S,unemployed,45,8800 NORTH TRYON STREET,Maine,Corporate
+155,Cari Schnelling,M,S,employed,21,1715 SHARON ROAD WEST,Maryland,Small Business
+156,Harold Engle,F,M,employed,41,1000 BLYTHE BOULEVARD,Massachusetts,Home Office
+157,Dan Reichenbach,M,M,unemployed,21,501 BILLINGSLEY RD,Michigan,Corporate
+158,Evan Minnotte,F,M,employed,41,8400 NORTHWEST BLVD,Minnesota,Corporate
+159,Evan Minnotte,M,M,unemployed,52,8060 KNUE ROAD,Alabama,Corporate
+160,Jack Lebron,F,S,employed,34,950 PARK EAST BLVD,Alaska,Corporate
+161,Frank Atkinson,F,S,employed,36,13861 OLIO ROAD,Arizona,Corporate
+162,Jack Lebron,F,S,unemployed,63,12188 B NORTH MERIDIAN STREET,Arkansas,Corporate
+163,Greg Guthrie,F,D,unemployed,52,720 ESKENAZI AVENUE,California,Small Business
+164,Carlos Soltero,M,D,employed,79,1909 CAREW STREET,Colorado,Small Business
+165,Harold Engle,M,M,unemployed,29,7952 W JEFFERSON BLVD,Connecticut,Home Office
+166,Jennifer Braxton,N,D,employed,37,2725 ENTERPRISE DRIVE,Delaware,Small Business
+167,Jennifer Braxton,M,S,employed,46,1701 N SENATE BLVD,Florida,Small Business
+168,Jim Sink,M,M,unemployed,41,1907 W SYCAMORE ST,Georgia,Corporate
+169,Noah Childs,F,M,employed,26,1373 EAST SR 62,Hawaii,Home Office
+170,Greg Guthrie,N,S,unemployed,16,7343 CLEARVISTA DRIVE,Idaho,Corporate
+171,Matt Collins,F,M,employed,53,2401 W UNIVERSITY AVE,Alabama,Consumer
+172,Matt Collins,F,S,employed,33,1100 REID PKWY,Alaska,Consumer
+173,Justin Knight,M,M,unemployed,32,1015 MICHIGAN AVE,Arizona,Corporate
+174,Luke Weiss,M,S,employed,45,1101 MICHIGAN AVE,Arkansas,Corporate
+175,Sanjit Chand,M,M,unemployed,48,1220 MISSOURI AVE,California,Home Office
+176,Luke Weiss,F,S,employed,75,4601 MEDICAL PLAZA WAY,Colorado,Corporate
+177,Justin Knight,N,S,employed,17,85 EAST US HWY 6,Connecticut,Corporate
+178,Christina DeMoss,M,D,unemployed,43,207 N TOWNLINE RD,Delaware,Home Office
+179,Sally Knutson,F,M,employed,29,2520 E DUPONT RD,Florida,Consumer
+180,Anthony O'Donnell,M,M,unemployed,33,7950 W JEFFERSON BLVD,Georgia,Consumer
+181,Anthony O'Donnell,F,S,employed,43,11130 PARKVIEW CIRCLE DR,Hawaii,Consumer
+182,Anna Andreadi,M,S,employed,73,11109 PARKVIEW PLAZA DRIVE,Idaho,Small Business
+183,Angele Hood,M,S,unemployed,62,1100 MERCER AVE,IllinoisIndiana,Consumer
+184,Seth Vernon,F,S,employed,59,2400 E 17TH ST,Iowa,Home Office
+185,Jim Karlsson,M,S,unemployed,18,410 PILGRIM BLVD,Kansas,Small Business
+186,Kelly Williams,F,M,employed,60,321 MITCHELL AVE,Kentucky,Corporate
+187,Sarah Foster,N,M,employed,43,285 BIELBY RD,Alabama,Corporate
+188,Alex Avila,N,M,unemployed,47,600 WILSON CREEK RD,Alaska,Home Office
+189,Barbara Fisher,M,M,employed,59,1314 E WALNUT ST,Arizona,Small Business
+190,Roy Skaria,F,S,unemployed,52,401 SAWYER RD,Arkansas,Corporate
+191,Alex Avila,M,S,employed,18,600 MARY ST,California,Home Office
+192,Christopher Martinez,N,S,employed,49,3300 E MORGAN AVE,Colorado,Small Business
+193,Shahid Shariari,M,S,unemployed,55,3400 LINCOLN AVENUE,Connecticut,Corporate
+194,Thomas Brumley,F,D,employed,80,4100 COVERT AVE,Delaware,Consumer
+195,Liz Price,M,D,unemployed,18,620 8TH AVE,Florida,Corporate
+196,Mark Cousins,F,D,employed,17,200 HIGH PARK AVE,Georgia,Home Office
+197,Ricardo Emerson,M,D,employed,32,330 LAKEVIEW DR,Hawaii,Corporate
+198,Liz Price,M,S,unemployed,63,800 W 9TH ST,Idaho,Corporate
+199,Ralph Kennedy,F,S,employed,21,1316 E SEVENTH ST,IllinoisIndiana,Corporate
+200,Sally Knutson,M,M,unemployed,66,720 N LINCOLN ST,Iowa,Corporate
+201,Rob Dowd,F,M,employed,17,1850 WESLEY RD,Kansas,Corporate
+202,Khloe Miller,M,M,employed,78,"2401 W UNIVERSITY AVE,8TH FL",Kentucky,Corporate
+203,Vicky Freymann,F,M,unemployed,50,2401 UNIVERSITY AVE,Louisiana,Home Office
+204,Neil Knudson,F,S,employed,30,1201 HADLEY RD,Maine,Corporate
+205,Ralph Kennedy,F,S,unemployed,44,275 W 12TH ST,Maryland,Corporate
+206,Shahid Shariari,F,S,employed,22,1710 LAFAYETTE RD,Massachusetts,Corporate
+207,Khloe Miller,M,D,employed,75,3600 N PROW RD,Michigan,Home Office
+208,Tony Chapman,M,D,unemployed,33,601 W SECOND ST,Minnesota,Consumer
+209,Gene Hale,N,M,employed,57,4011 S MONROE MEDICAL PARK BLVD,Mississippi,Consumer
+210,Justin Hirsh,M,D,unemployed,47,2101 E DUBOIS DR,Missouri,Consumer
+211,Justin Hirsh,M,S,employed,23,4488 ROSLIN RD,MontanaNebraska,Consumer
+212,Sarah Bern,F,M,employed,15,303 S MAIN ST,Alabama,Corporate
+213,Patrick O'Brill,N,M,unemployed,52,901 MACARTHUR BLVD,Alaska,Home Office
+214,Liz Price,F,S,employed,41,701 SUPERIOR AVE,Arizona,Consumer
+215,Cathy Armstrong,F,M,unemployed,66,1201 S MAIN ST,Arkansas,Consumer
+216,Justin Hirsh,M,S,employed,26,24 JOLIET ST,California,Consumer
+217,Steve Carroll,M,M,employed,24,5454 HOHMAN AVE,Colorado,Consumer
+218,Matt Abelman,M,S,unemployed,72,1104 E GRACE ST,Connecticut,Home Office
+219,Chad Sievert,F,M,employed,56,"5454 HOHMAN AVE,5TH FL",Delaware,Corporate
+220,Dana Kaydos,N,S,unemployed,28,600 GRANT ST,Florida,Corporate
+221,Chad Sievert,M,S,employed,28,9301 CONNECTICUT DR,Georgia,Corporate
+222,Nathan Cano,F,D,unemployed,39,1701 S CREASY LN,Hawaii,Consumer
+223,Matt Abelman,M,M,employed,27,642 W HOSPITAL RD,Idaho,Home Office
+224,Dana Kaydos,F,M,employed,56,898 E MAIN ST,IllinoisIndiana,Corporate
+225,Roland Black,M,S,unemployed,29,1125 W JEFFERSON ST,Iowa,Small Business
+226,Bart Watters,M,S,employed,26,1000 S MAIN ST,Kansas,Corporate
+227,Hallie Redmond,F,S,unemployed,56,416 E MAUMEE ST,Kentucky,Home Office
+228,Bruce Stewart,M,S,employed,54,5165 MCCARTY LN,Louisiana,Corporate
+229,Hallie Redmond,F,S,employed,76,301 W HOMER ST,Maine,Small Business
+230,Hallie Redmond,N,M,unemployed,80,1007 LINCOLNWAY,Maryland,Small Business
+231,Bruce Stewart,N,M,employed,22,2900 W 16TH ST,Massachusetts,Corporate
+232,Ken Lonsdale,M,M,unemployed,48,1515 N MADISON AVE,Michigan,Consumer
+233,Guy Thornton,F,M,employed,67,615 N MICHIGAN ST,Minnesota,Corporate
+234,Guy Thornton,M,S,employed,80,102 E CULVER RD,Mississippi,Corporate
+235,Maria Bertelson,N,S,unemployed,68,53131 QUINCE RD,Missouri,Home Office
+236,Maria Bertelson,M,S,employed,65,520 S 7TH ST,Alabama,Home Office
+237,Joseph Airdo,F,S,unemployed,36,801 N STATE ST,Alaska,Corporate
+238,Lycoris Saunders,M,D,employed,36,1185 N 1000 W,Arizona,Corporate
+239,Maria Bertelson,F,D,unemployed,38,11700 N MERIDIAN ST,Arkansas,Home Office
+240,Maria Bertelson,M,D,employed,61,1808 SHERMAN DR,California,Corporate
+241,Meg O'Connel,M,D,employed,65,505 WABASH AVE,Colorado,Corporate
+242,Rob Beeghly,F,S,unemployed,70,441 N WABASH AVE,Connecticut,Consumer
+243,Christina Vanderzanden,M,S,employed,35,1020 HIGH RD,Delaware,Small Business
+244,Bill Donatelli,F,M,unemployed,30,417 S WHITLOCK ST,Florida,Corporate
+245,Bill Donatelli,M,M,employed,74,1800 N OAK RD,Georgia,Corporate
+246,Bill Donatelli,F,M,employed,80,2001 STULTS RD,Hawaii,Corporate
+247,Russell Applegate,F,M,unemployed,62,1941 VIRGINIA AVE,Idaho,Home Office
+248,Joel Jenkins,F,S,employed,40,1260 E SR 205,IllinoisIndiana,Corporate
+249,Brad Eason,F,S,unemployed,51,720 SOUTH SIXTH ST,Iowa,Small Business
+250,Barry French,M,S,employed,79,1500 N RITTER AVE,Kansas,Consumer
+251,Carlos Soltero,M,D,employed,21,7150 CLEARVISTA DR,Kentucky,Consumer
+252,Ralph Knight,N,D,unemployed,45,1402 E COUNTY LINE RD S,Louisiana,Consumer
+253,Beth Paige,M,M,employed,52,8102 CLEARVISTA PARKWAY,Maine,Consumer
+254,Ralph Knight,M,D,unemployed,53,8111 S EMERSON AVE,Maryland,Consumer
+255,Edward Hooks,F,S,employed,62,1700 W 10TH ST,Massachusetts,Consumer
+256,Ralph Knight,N,M,employed,77,2601 COLD SPRING RD,Alabama,Consumer
+257,Carlos Soltero,F,M,unemployed,67,5602 CAITO DRIVE,Alaska,Consumer
+258,Becky Castell,F,S,employed,47,711 GREEN RD,Arizona,Consumer
+259,Becky Castell,M,M,unemployed,38,500 W VOTAW ST,Arkansas,Consumer
+260,Carlos Soltero,M,S,employed,40,1000 N 16TH ST,California,Consumer
+261,Barry French,M,M,employed,43,3500 S LAFOUNTAIN ST,Colorado,Consumer
+262,Ralph Knight,F,S,unemployed,48,829 N DIXON RD,Connecticut,Consumer
+263,Edward Hooks,N,M,employed,70,1141 HOSPITAL DR NW,Delaware,Consumer
+264,Edward Hooks,M,S,unemployed,72,1000 E MAIN ST,Florida,Consumer
+265,Julia West,F,S,employed,78,1111 N RONALD REAGAN PKWY,Georgia,Consumer
+266,Ralph Knight,F,D,employed,76,1850 STATE ST,Hawaii,Consumer
+267,Ralph Arnett,M,M,unemployed,22,4023 REAS LN,Idaho,Consumer
+268,Ralph Knight,M,M,employed,47,2605 N LEBANON ST,IllinoisIndiana,Consumer
+269,Julia West,F,S,unemployed,27,2700 VISSING PARK RD,Iowa,Consumer
+270,Andrew Gjertsen,M,S,employed,54,701 WALL ST,Kansas,Consumer
+271,Edward Hooks,F,S,employed,34,7970 W JEFFERSON BLVD,Kentucky,Consumer
+272,Harold Engle,N,S,unemployed,23,700 BROADWAY,Louisiana,Consumer
+273,Joy Smith,N,S,employed,30,1300 N MAIN ST,Maine,Consumer
+274,Joy Smith,M,M,unemployed,40,616 E 13TH ST,Maryland,Consumer
+275,Joy Smith,F,M,employed,61,1206 E NATIONAL AVE,Massachusetts,Consumer
+276,Joy Smith,M,M,unemployed,56,1300 S JACKSON ST,Michigan,Consumer
+277,Joy Smith,N,M,employed,50,3700 WASHINGTON AVE,Minnesota,Consumer
+278,Joy Smith,M,S,employed,57,801 S MAIN ST,Mississippi,Consumer
+279,Carlos Soltero,F,S,unemployed,26,3901 S SEVENTH ST,Missouri,Consumer
+280,Carlos Soltero,M,S,employed,35,1606 N SEVENTH ST,MontanaNebraska,Consumer
+281,Carlos Soltero,F,S,unemployed,51,710 N EAST ST,Alabama,Consumer
+282,Harold Engle,M,D,employed,30,1116 MILLIS AVE,Alaska,Consumer
+283,Carlos Soltero,M,D,employed,65,4007 GATEWAY BLVD,Arizona,Consumer
+284,Carlos Soltero,F,D,unemployed,53,4199 GATEWAY BLVD,Arkansas,Consumer
+285,Carlos Soltero,M,D,employed,19,412 N MONROE ST,California,Consumer
+286,Joy Smith,F,S,unemployed,46,498 NW 18TH ST,Colorado,Consumer
+287,Matt Collins,M,S,employed,50,911 N SHELBY ST,Connecticut,Consumer
+288,Matt Collins,F,M,employed,80,"4321 FIR ST,4TH FL",Delaware,Consumer
+289,Rob Haberlin,F,M,unemployed,79,8555 TAFT ST,Florida,Consumer
+290,Matt Collins,F,M,employed,52,4321 FIR ST,Georgia,Consumer
+291,Matt Collins,F,M,unemployed,52,1500 S LAKE PARK AVE,Hawaii,Consumer
+292,Sally Knutson,M,S,employed,35,9509 GEORGIA ST,Idaho,Consumer
+293,Gene Hale,M,S,employed,60,2200 N SECTION ST,IllinoisIndiana,Consumer
+294,Gene Hale,N,S,unemployed,65,2900 N RIVER RD,Iowa,Consumer
+295,Sally Knutson,M,D,employed,58,833 PARK EAST BLVD,Kansas,Consumer
+296,Sally Knutson,M,D,unemployed,72,1600 23RD ST,Kentucky,Consumer
+297,Joy Smith,F,M,employed,31,2015 JACKSON ST,Louisiana,Consumer
+298,Dennis Bolton,N,D,employed,22,1331 S A ST,Maine,Consumer
+299,Dennis Bolton,F,S,unemployed,80,1451 N GARDNER ST,Massachusetts,Consumer

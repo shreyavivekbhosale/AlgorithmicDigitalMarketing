@@ -1,0 +1,236 @@
+product_id,product_name,product_type,product_category,brand,product_decription,product_purpose,cost_per_unit,cost_range,cost_per_unit_cleaned
+1,Advanced Night Repair Serum,serum,haircare,Aveda,Synchronized Multi-Recovery Complex,The #1 serum in the U.S.* Fight the look of multiple signs of aging.,$75.00 ,$75.00 - $200.00,75
+2,Revitalizing Supreme+,face cream,Cosmetics/SkinCare,BECCA,Global Anti-Aging Cell Power Creme,Multi-action creme; the key to younger-looking skin.,$59.00 ,$59.00 - $88.00,59
+3,Revitalizing Supreme+,face cream,Cosmetics/SkinCare,Bobbi Brown,Global Anti-Aging Cell Power Creme SPF 15,Multi-action SPF 15 creme; the key to younger-looking skin.,$88.00 ,$88.00 - $106.00,88
+4,Revitalizing Supreme+ Bright,face cream,Cosmetics/SkinCare,Clinique,Power Soft Creme,Multi-action creme visibly improves dark spots; acne marks.,$88.00 ,0,88
+5,Revitalizing Supreme+ Bright,face lotion,Cosmetics/SkinCare,Darphin,Power Soft Milky Lotion,Multi-action lotion visibly improves dark spots; acne marks.,$88.00 ,0,88
+6,Micro Essence,treatment lotion,Cosmetics/SkinCare,DECIEM by Brandon Truaxe,Skin Activating Treatment Lotion,Reveals skin's youthful; angelic glow.,$65.00 ,$65.00 - $200.00,65
+7,Advanced Night Repair Eye Supercharged Complex,eye cream,Cosmetics/SkinCare,Dr.Jart+,Synchronized Recovery,Repairs. Brightens dark circles. Hydrates. Prevents.,$64.00 ,0,64
+8,Advanced Night Repair Eye Concentrate Matrix,eye cream,Cosmetics/SkinCare,Est�e Lauder,Synchronized Recovery,Repairs. Fortifies. Hydrates eyes.,$70.00 ,0,70
+9,Perfectionist Pro,face treatment,Cosmetics/SkinCare,GLAMGLOW,Intense Brightening Essence Ampoule with Vitamin C/E + Licorice,Renews skin. Reduces the look of dark spots; pores.,$110.00 ,0,110
+10,Perfectionist Pro,face treatment,Cosmetics/SkinCare,La Mer,Rapid Brightening Treatment with Ferment� + Vitamin C,Boosts radiance. Visibly reduces dark spots; pores.,$78.00 ,$78.00 - $110.00,78
+11,Perfectionist Pro,face treatment,Cosmetics/SkinCare,Lab Series,Rapid Firm + Lift Treatment with Acetyl Hexapeptide-8,See an overall more youthful; lifted look.,$78.00 ,$78.00 - $110.00,78
+12,Revitalizing Supreme+ Night,face cream,Cosmetics/SkinCare,MAC Cosmetics,Intensive Restorative Creme,Firms. Reduces the look of lines. Deeply nourishes.,$89.00 ,0,89
+13,Perfectly Clean,face cleanser,Cosmetics/SkinCare,Origins,Multi-Action Foam Cleanser/Purifying Mask,Richly lathers to cleanse. 3-minute purifying mask.,$27.00 ,0,27
+14,Soft Clean,face cleanser,Cosmetics/SkinCare,Prescriptives,Moisture Rich Foaming Cleanser,Foams into rich lather. Leaves skin soft; satisfied.,$24.00 ,0,24
+15,Soft Clean,face lotion,Cosmetics/SkinCare,Smashbox,Silky Hydrating Lotion,Hydrating toner. Leaves skin soft; supple.,$35.00 ,0,35
+16,DayWear,face cream,Cosmetics/SkinCare,Too Faced[28],Multi-Protection Anti-Oxidant 24H-Moisture Creme SPF 15,Helps prevent and diminish first signs of aging.,$35.00 ,$35.00 - $55.00,35
+17,Nutritious Super-Pomegranate,face cleanser,Cosmetics/SkinCare,Tom Ford Beauty,Radiant Energy 2-in-1 Cleansing Foam,Purifies skin 2 ways: as daily cleanser or as mask.,$34.00 ,0,34
+18,Resilience Multi-Effect,face cream,Cosmetics/SkinCare,Smashbox,Tri-Peptide Face and Neck Creme SPF 15,Intensely nourishing; for radiant; plumped; supple skin.,$30.00 ,$30.00 - $114.00,30
+19,Advanced Night Repair Serum,serum,haircare,Bumble and Bumble,Synchronized Multi-Recovery Complex in Large-Size Red Bottle,Supersize celebration: the #1 serum in the U.S.* in a �lucky red� bottle.$287.50 Value.,$200.00 ,0,200
+20,Advanced Night Repair Serum Duo,serum,haircare,Aveda,Synchronized Multi-Recovery Complex,Value set of the #1 serum in the U.S. Fight the look of signs of aging. A $210 Value,$180.00 ,0,180
+21,Advanced Night Repair Eye Serum,eye serum,Cosmetics/SkinCare,AERIN,Synchronized Complex II,Fights key signs of eye aging. Light; intensive.,$69.00 ,0,69
+22,Advanced Night Repair,face treatment,Cosmetics/SkinCare,BECCA,Intense Reset Concentrate,Rescues and resets the look of skin fast.,$82.00 ,0,82
+23,Advanced Night,face cleanser,Cosmetics/SkinCare,Bobbi Brown,Micro Cleansing Foam,Airy foam purifies skin; removes makeup & pollution.,$32.00 ,0,32
+24,Advanced Night,face cleanser,Cosmetics/SkinCare,Clinique,Micro Cleansing Balm,Light balm melts to a cleansing oil. Removes makeup.,$47.00 ,0,47
+25,Advanced Night Repair,mask,Cosmetics/SkinCare,Darphin,Concentrated Recovery Power Foil Mask,Innovative mask with exclusive repair technology.,$85.00 ,$85.00 - $165.00,85
+26,Advanced Night Repair,eye mask,Cosmetics/SkinCare,DECIEM by Brandon Truaxe,Concentrated Recovery Eye Mask,Rejuvenates the look and feel of your eyes.,$42.00 ,0,42
+27,Micro Essence,treatment lotion,Cosmetics/SkinCare,Dr.Jart+,Skin Activating Treatment Lotion Fresh with Sakura Ferment,Ultra lightweight; for softer; smoother; glowing skin.,$120.00 ,$120.00 - $200.00,120
+28,Micro Essence,mask,Cosmetics/SkinCare,Est�e Lauder,Infusion Mask,Deeply nourishing; intensely hydrating face mask.,$75.00 ,0,75
+29,Perfectionist Pro,sunscreen,Cosmetics/SkinCare,GLAMGLOW,Multi-Defense Aqua UV Gel SPF 50 with 8 Anti-Oxidants,Ultra light texture. UVA/UVB; Pollution and Dehydration defense.,$45.00 ,0,45
+30,Perfectionist Pro,serum,haircare,Bumble and Bumble,Rapid Firm + Lift Treatment Duo,Value set of our superstar Firm + Lift serum. Worth $250,$192.00 ,0,192
+31,Perfectionist [CP+R],serum,haircare,Aveda,Wrinkle Lifting/Firming Serum,Significantly reduces the look of lines; wrinkles.,$108.00 ,0,108
+32,Perfectionist Pro,sunscreen,Cosmetics/SkinCare,MAC Cosmetics,Multi-Defense UV Fluid SPF 45 with 8 Anti-Oxidants,UVA/UVB defense. Pollution defense. Dehydration defense.,$45.00 ,0,45
+33,Perfectionist Pro,face treatment,Cosmetics/SkinCare,Origins,Rapid Renewal Retinol Treatment,High-grade Retinol treatment fights wrinkles; dark spots.,$86.00 ,0,86
+34,Perfectionist Pro,resurfacing cream,Cosmetics/SkinCare,Prescriptives,Instant Resurfacing Peel with 9.9% AHAs + BHA,"At-home ""micro-facial"" peel for instantly soft; radiant skin.",$78.00 ,0,78
+35,Perfectionist Pro,face treatment,Cosmetics/SkinCare,Smashbox,Instant Wrinkle Filler with Tri-Polymer Blend,Immediately helps fill facial lines and wrinkles.,$56.00 ,0,56
+36,Revitalizing Supreme+,eye cream,Cosmetics/SkinCare,Too Faced[28],Global Anti-Aging Cell Power Eye Balm,Hydrates; firms and smooths the look of lines.,$68.00 ,0,68
+37,Revitalizing Supreme+,toner,Cosmetics/SkinCare,Tom Ford Beauty,Global Anti-Aging Power Soft Emulsion,Ultra lightweight; ultra comfortable; ultra hydrating.,$88.00 ,0,88
+38,Nutritious Super-Pomegranate,face lotion,Cosmetics/SkinCare,AERIN,Radiant Energy Milky Lotion,Nourishing; light lotion. Visibly minimizes pores.,$68.00 ,0,68
+39,Nutritious Super-Pomegranate,face lotion,Cosmetics/SkinCare,BECCA,Radiant Energy Milky Lotion Light,Water-light hydrating lotion. Visibly minimizes pores.,$68.00 ,0,68
+40,Nutritious Super-Pomegranate,face lotion,Cosmetics/SkinCare,Bobbi Brown,Radiant Energy Lotion Light,Lightweight lotion refreshes skin with moisture.,$58.00 ,0,58
+41,Nutritious Super-Pomegranate,face lotion,Cosmetics/SkinCare,Clinique,Radiant Energy Lotion Intense Moist,Rich; cushioning lotion envelops skin in moisture.,$58.00 ,0,58
+42,Nutritious Super-Pomegranate,face cream,Cosmetics/SkinCare,Darphin,Radiant Energy Moisture Creme,Energizing moisture creme recharges skin�s radiance.,$70.00 ,0,70
+43,Nutritious Super-Pomegranate,mask,Cosmetics/SkinCare,DECIEM by Brandon Truaxe,Radiant Energy Night Creme/Mask,Rich; nourishing. Recharges skin�s radiance.,$74.00 ,0,74
+44,DayWear,face cream,Cosmetics/SkinCare,Dr.Jart+,Anti-Oxidant 72H-Hydration Sorbet Creme SPF 15,Innovative waterlight texture + powerful protection.,$55.00 ,0,55
+45,DayWear Matte,face cream,Cosmetics/SkinCare,Est�e Lauder,Oil-Control Anti-Oxidant Moisture Gel Creme,Oil-Free; Oil-Controlling/Absorbing Moisturizer.,$55.00 ,0,55
+46,NightWear Plus,face cream,Cosmetics/SkinCare,GLAMGLOW,Anti-Oxidant Night Detox Creme,Detoxify; soothe; intensely hydrate�while you sleep.,$58.00 ,0,58
+47,DayWear Eye,eye cream,Cosmetics/SkinCare,La Mer,Cooling Anti-Oxidant Moisture Gel Creme,Brightens; de-puffs. 24-hour hydration. Anti-oxidants.,$42.00 ,0,42
+48,Perfectly Clean,mask,Cosmetics/SkinCare,Lab Series,Multi-Action Creme Cleanser/Moisture Mask,Cushions as it cleanses. Non-foaming creme.,$27.00 ,0,27
+49,Perfectly Clean,face cleanser,Cosmetics/SkinCare,MAC Cosmetics,Multi-Action Cleansing Gel�e/Refiner,Instantly foams to purify; exfoliate; unclog pores.,$27.00 ,0,27
+50,Perfectly Clean,face lotion,Cosmetics/SkinCare,Origins,Multi-Action Toning Lotion/Refiner,Tones and exfoliates in one; for a brighter look.,$27.00 ,0,27
+51,Perfectly Clean,face lotion,Cosmetics/SkinCare,Prescriptives,Fresh Balancing Lotion,Revitalizing toner conditions; rebalances.,$35.00 ,0,35
+52,Resilience Multi-Effect Night,face cream,Cosmetics/SkinCare,Smashbox,Tri-Peptide Face and Neck Creme,Intense nighttime nourishment to lift and firm.,$98.00 ,$98.00 - $116.00,98
+53,Resilience Multi-Effect,eye cream,Cosmetics/SkinCare,Too Faced[28],Tri-Peptide Eye Creme,Intensely nourishing; for firmer; less-lined looking eyes.,$70.00 ,0,70
+54,Advanced Time Zone Night,face cream,Cosmetics/SkinCare,Tom Ford Beauty,Age Reversing Line/Wrinkle Creme,Intensive nighttime care for a younger look; fast.,$85.00 ,0,85
+55,Advanced Time Zone,eye cream,Cosmetics/SkinCare,Clinique,Age Reversing Line/Wrinkle Eye Creme,Reduces the look of eye lines and signs of aging.,$64.00 ,0,64
+56,Idealist,serum,haircare,Aveda,Pore Minimizing Skin Refinisher,Pores look smaller. Skin feels soft; smooth.,$63.00 ,$63.00 - $94.00,63
+57,Swiss Performing Extract,moisturizer,Cosmetics/SkinCare,AERIN,(none),Classic Formula. Helps maintain moisture.,$60.00 ,0,60
+58,Gentle Eye Makeup Remover,makeup remover,Cosmetics/SkinCare,BECCA,(none),Works quickly; thoroughly on shadow; mascara; etc.,$22.00 ,0,22
+59,Perfectly Clean,face cleanser,Cosmetics/SkinCare,Bobbi Brown,Triple-Action Cleanser/Toner/Makeup Remover,Ingeniously combines all three steps into one.,$30.00 ,0,30
+60,Take It Away,makeup remover,Cosmetics/SkinCare,Clinique,Makeup Remover Lotion,All-around formula; even for long-wear; waterproof.,$31.00 ,0,31
+61,Take It Away,makeup remover,Cosmetics/SkinCare,Darphin,Gentle Eye and Lip Longwear Makeup Remover,Quickly dissolves long-wear and waterproof makeup.,$22.00 ,0,22
+62,Re-Nutriv,face massaging tool,Cosmetics/SkinCare,DECIEM by Brandon Truaxe,Ultimate Facial Massager,Visibly re-energizes skin in a moment of indulgence.,$175.00 ,0,175
+63,Re-Nutriv,eye serum,Cosmetics/SkinCare,Dr.Jart+,Ultimate Diamond Transformative Eye Serum,Eyes look transformed at key facets. More sculpted. Brighter.,$180.00 ,0,180
+64,Re-Nutriv,face cleanser,Cosmetics/SkinCare,Est�e Lauder,Hydrating Foam Cleanser,Richly foams; pampers as it cleans.,$70.00 ,0,70
+65,Re-Nutriv,hand cream,Cosmetics/SkinCare,GLAMGLOW,Intensive Smoothing Hand Creme,Deeply nourishes dry hands.,$70.00 ,0,70
+66,Re-Nutriv,face cream,Cosmetics/SkinCare,La Mer,Ultimate Lift Regenerating Youth Creme,Strengthens; reveals a more lifted; radiant look.,$310.00 ,0,310
+67,Re-Nutriv,eye cream,Cosmetics/SkinCare,Lab Series,Ultimate Lift Regenerating Youth Eye Creme,Gives eyes a brighter; more lifted look.,$165.00 ,0,165
+68,Re-Nutriv,serum,haircare,Bumble and Bumble,Ultimate Lift Regenerating Youth Serum,Concentrated for a more lifted look; firmer feel.,$310.00 ,0,310
+69,Re-Nutriv,face lotion,Cosmetics/SkinCare,Origins,Ultimate Lift Regenerating Youth Treatment Lotion,Hydration and brightening. Leaves skin soft.,$120.00 ,0,120
+70,Re-Nutriv,face lotion,Cosmetics/SkinCare,Prescriptives,Ultimate Lift Regenerating Youth Emulsion,Lightweight; deep-penetrating hydration for a radiant look.,$295.00 ,0,295
+71,Re-Nutriv,face cream,Cosmetics/SkinCare,Smashbox,Creme,A Re-Nutriv Classic. Indulges with rich moisture.,$115.00 ,0,115
+72,Re-Nutriv,face cream,Cosmetics/SkinCare,Too Faced[28],Lightweight Creme,A Re-Nutriv Classic. Rich moisture; but lighter.,$115.00 ,0,115
+73,Re-Nutriv,face lotion,Cosmetics/SkinCare,Tom Ford Beauty,Softening Lotion,Smooths; softens; refreshes.,$73.00 ,0,73
+74,Re-Nutriv,face cream,Cosmetics/SkinCare,AERIN,Ultimate Diamond Transformative Energy Creme Rich,Decadently rich; deeply nourishing; exquisitely comforting.,$405.00 ,0,405
+75,Re-Nutriv,face cream,Cosmetics/SkinCare,BECCA,Ultimate Diamond Transformative Energy Creme,With Black Diamond Truffle Extract. Pure energy.,$125.00 ,$125.00 - $405.00,125
+76,Re-Nutriv,eye cream,Cosmetics/SkinCare,Bobbi Brown,Ultimate Diamond Transformative Energy Eye Creme,Luxury for eyes; with Black Diamond Truffle Extract.,$280.00 ,0,280
+77,Re-Nutriv,face cream,Cosmetics/SkinCare,Clinique,Ultimate Lift Regenerating Youth Creme Rich,Strengthens; reveals a more lifted; radiant look.,$310.00 ,0,310
+78,Re-Nutriv,eye cream,Cosmetics/SkinCare,Darphin,Ultimate Lift Regenerating Youth Eye Creme Rich,Gives eyes a brighter; more lifted look; firmer feel.,$165.00 ,0,165
+79,Double Wear,foundation,Cosmetics/SkinCare,DECIEM by Brandon Truaxe,Stay-in-Place Makeup,24-hour wear. Flawless; natural; matte foundation.,$43.00 ,0,43
+80,Pure Color Envy,lipstick,Cosmetics/SkinCare,Dr.Jart+,Sculpting Lipstick,Statement-making; lip-shaping color. Creme finish.,$32.00 ,0,32
+81,Futurist Hydra Rescue,foundation,Cosmetics/SkinCare,Est�e Lauder,Moisturizing Makeup SPF 45,Flawless makeup with serious skincare.,$45.00 ,0,45
+82,Double Wear,concealer,Cosmetics/SkinCare,GLAMGLOW,Radiant Concealer,Loves your skin with nourishing botanical extracts.,$30.00 ,0,30
+83,Pure Color Illuminating Shine,lipstick,Cosmetics/SkinCare,La Mer,Sheer Shine Lipstick,A pop of color; a burst of hydrating shine.,$32.00 ,0,32
+84,Pure Color Envy Hi-Lustre,lipstick,Cosmetics/SkinCare,Lab Series,Light Sculpting Lipstick,Transforms lips with lustrous color; brilliant shine.,$32.00 ,0,32
+85,Pure Color Envy Matte,lipstick,Cosmetics/SkinCare,MAC Cosmetics,Sculpting Lipstick,Statement-making creme matte color.,$19.20 ,$19.20 - $32.00,19.2
+86,Double Wear,concealer,Cosmetics/SkinCare,Origins,Maximum Cover Camouflage Makeup for Face and Body SPF 15,Full; concealing Matte coverage. Waterproof. Long-wear.,$25.80 ,$25.80 - $43.00,25.8
+87,Sumptuous Extreme,mascara,Cosmetics/SkinCare,Prescriptives,Lash Multiplying Volume Mascara,Outrageous Volume.,$29.00 ,0,29
+88,Double Wear,eyeliner,Cosmetics/SkinCare,Smashbox,Stay-in-Place Eye Pencil,24-hour wear. Waterproof.,$28.00 ,0,28
+89,Pure Color Envy,blush,Cosmetics/SkinCare,Too Faced[28],Flatters All Cheek Color,A rush of fresh; rosy color for cheeks in a universal shade.,$32.00 ,0,32
+90,Pure Color Envy,blush,Cosmetics/SkinCare,Tom Ford Beauty,Sculpting Blush,A rush of fresh; radiant color for cheeks.,$36.50 ,$36.50 - $38.00,36.5
+91,The MET 150 Collection,lipstick,Cosmetics/SkinCare,AERIN,Pure Color Envy Full-Size Lipstick Trio,3 full-size lipsticks in specially designed cases.,$90.00 ,0,90
+92,Pure Color Envy,lip serum,Cosmetics/SkinCare,BECCA,Nighttime Rescue Lip Oil-Serum,Nourishes; soothes and softens lips every night.,$32.00 ,0,32
+93,Pure Color Envy,lip balm,Cosmetics/SkinCare,Bobbi Brown,Color Replenish Lip Balm,Hydrates. Smooths. Tints with personalized color.,$32.00 ,0,32
+94,Pure Color Envy,lip treatment,Cosmetics/SkinCare,Clinique,Lip Repair Potion,Revives with all-in-one lip repair.,$32.00 ,0,32
+95,Pure Color Envy,lip volumizer,Cosmetics/SkinCare,Darphin,Lip Volumizer,Sculpts. Plumps. Moisturizes.,$32.00 ,0,32
+96,Perfectionist,foundation,Cosmetics/SkinCare,DECIEM by Brandon Truaxe,Youth-Infusing Serum Makeup SPF 25,Brightens. Hydrates. Medium to full coverage.,$52.00 ,0,52
+97,Double Wear Cushion BB,foundation,Cosmetics/SkinCare,Dr.Jart+,All Day Wear Liquid Compact SPF 50,Cushion makeup with the lasting power of Double Wear.,$43.00 ,0,43
+98,Re-Nutriv,foundation,Cosmetics/SkinCare,Est�e Lauder,Ultra Radiance Liquid Makeup SPF 20,Look radiant: luxurious liquid foundation.,$105.00 ,0,105
+99,Double Wear,foundation,Cosmetics/SkinCare,GLAMGLOW,Stay-in-Place Matte Powder Foundation,Versatile powder to wear as foundation; or over it.,$43.00 ,0,43
+100,Double Wear,concealer,Cosmetics/SkinCare,La Mer,Stay-in-Place Flawless Wear Concealer,24-hour flawless wear. Wand applicator.,$30.00 ,0,30
+101,Double Wear Instant Fix Concealer,concealer,Cosmetics/SkinCare,Lab Series,24H Concealer + Hydra Prep,Two-sided prep and concealer.,$30.00 ,0,30
+102,Pure Color Love,highlighter,Cosmetics/SkinCare,MAC Cosmetics,Cooling Highlighter,All-over pearly radiance and instant refreshment.,$24.00 ,0,24
+103,Bronze Goddess,bronzer,Cosmetics/SkinCare,Origins,Powder Bronzer,Silky and luxurious. Natural; shine-free color.,$45.00 ,0,45
+104,Bronze Goddess,highlighter,Cosmetics/SkinCare,Prescriptives,Highlighting Powder Gel�e,Luxe powder highlighter for luminous radiance.,$45.00 ,0,45
+105,Year of the Ox,foundation,Cosmetics/SkinCare,Smashbox,Powder Compact,Collectible powder compact. Great gift. Refillable.,$200.00 ,0,200
+106,Red Lacquer Alligator Slim,foundation,Cosmetics/SkinCare,Too Faced[28],Powder Compact,Collectible powder compact. Great gift. Refillable.,$200.00 ,0,200
+107,The Smoother,primer,Cosmetics/SkinCare,Tom Ford Beauty,Universal Perfecting Primer,Primes and reduces the look of pores.,$38.00 ,0,38
+108,The Illuminator,primer,Cosmetics/SkinCare,AERIN,Radiant Perfecting Primer + Finisher,Primes; hydrates; finishes.,$38.00 ,0,38
+109,The Mattifier,primer,Cosmetics/SkinCare,BECCA,Shine Control Perfecting Primer + Finisher,Primes; controls shine; finishes.,$38.00 ,0,38
+110,Pure Color Envy,lipstick,Cosmetics/SkinCare,Bobbi Brown,Sculpting Lipstick in Limited Edition Case,Comfortable; creamy lip color in a limited edition case.,$32.00 ,0,32
+111,Pure Color Envy,lipstick,Cosmetics/SkinCare,Clinique,Sculpting Lipstick in Red Case,High-intensity lip color in shade 520 Carnal in a limited edition red metallic case.,$32.00 ,0,32
+112,Pure Color Envy,lipstick,Cosmetics/SkinCare,Darphin,Sculpting Lipstick in Exclusive James Goldcrown-Designed Case,Intense lip color in shade 520 Carnal in a limited edition case by James Goldcrown.,$32.00 ,0,32
+113,Pure Color Desire,lipstick,Cosmetics/SkinCare,DECIEM by Brandon Truaxe,Rouge Excess Matte Lipstick,One-stroke intense color in a smooth velvety matte.,$44.00 ,0,44
+114,Pure Color Desire,lipstick,Cosmetics/SkinCare,Dr.Jart+,Rouge Excess Lipstick,One-stroke bold color impact and plumping moisture.,$44.00 ,0,44
+115,Pure Color Envy,lip gloss,Cosmetics/SkinCare,Est�e Lauder,Kissable Lip Shine,Brilliant; glossy gleam�spectacularly vibrant.,$29.00 ,0,29
+116,Pure Color Envy,lip gloss,Cosmetics/SkinCare,GLAMGLOW,Oil-Infused Lip Shine,Crystal-clear shine over lipcolor or on bare lips.,$29.00 ,0,29
+117,Pure Color Envy,lip color,Cosmetics/SkinCare,La Mer,Paint-On Liquid Lip Color,Drench your lips in full-on liquid color.,$29.00 ,0,29
+118,Automatic Lip Pencil Duo,lip liner,Cosmetics/SkinCare,Lab Series,(none),For soft; creamy shaping. Twist-up pencil + brush.,$29.00 ,0,29
+119,Double Wear,lip liner,Cosmetics/SkinCare,MAC Cosmetics,Stay-in-Place Lip Pencil,For precision shaping; long-wear.,$28.00 ,0,28
+120,Pure Color Envy,eyeshadow,Cosmetics/SkinCare,Origins,Sculpting Eyeshadow 5-Color Palette,A color story in a compact.,$56.00 ,0,56
+121,Sumptuous Rebel,mascara,Cosmetics/SkinCare,Prescriptives,Length + Lift Mascara,Sleek brush delivers full-bodied length plus lift.,$29.00 ,0,29
+122,Sumptuous Extreme Waterproof,mascara,Cosmetics/SkinCare,Smashbox,Lash Multiplying Volume Mascara,Outrageous Volume. Now in waterproof.,$29.00 ,0,29
+123,Little Black Primer�,lash primer,Cosmetics/SkinCare,Too Faced[28],Tint. Amplify. Set,Wear it 3 ways: Tint. Amplify. Set.,$26.00 ,0,26
+124,Double Wear,eyeliner,Cosmetics/SkinCare,Tom Ford Beauty,Infinite Waterproof Eyeliner,24-hour wear. Includes a smudge tip and sharpener.,$28.00 ,0,28
+125,Little Black Liner,eyeliner,Cosmetics/SkinCare,AERIN,Thick. Thin. Ultra-Fine.,Beyond liner. Wear it 3 ways.,$35.00 ,0,35
+126,Featherlight Brow Enhancer,eyebrow liner,Cosmetics/SkinCare,BECCA,(none),Ultra-fine marker makes your best brows easy.,$29.00 ,0,29
+127,The Brow Multi-Tasker,eyebrow liner,Cosmetics/SkinCare,Bobbi Brown,(none),3-in-1 brow pencil; powder and brush.,$29.00 ,0,29
+128,Brow Now,eyebrow liner,Cosmetics/SkinCare,Clinique,Brow Defining Pencil,Unique gel pencil fills; shapes and defines brows.,$26.00 ,0,26
+129,Brow Now,primer,Cosmetics/SkinCare,Darphin,Volumizing Brow Tint,Brush-on gel fills; tints for fuller looking brows.,$26.00 ,0,26
+130,Brow Now,eyebrow gel,Cosmetics/SkinCare,DECIEM by Brandon Truaxe,Stay-in-Place Brow Gel,Clear brow gel for all hair colors sets and styles.,$26.00 ,0,26
+131,The MET 150 Collection,foundation,Cosmetics/SkinCare,Dr.Jart+,Collectible Powder Compact,Collectible powder compact. Great gift. Refillable.,$300.00 ,0,300
+132,Aquarius,foundation,Cosmetics/SkinCare,Est�e Lauder,Zodiac Powder Compact,(none),$75.00 ,0,75
+133,Cancer,foundation,Cosmetics/SkinCare,GLAMGLOW,Zodiac Powder Compact,(none),$75.00 ,0,75
+134,Capricorn,foundation,Cosmetics/SkinCare,La Mer,Zodiac Powder Compact,(none),$75.00 ,0,75
+135,Gemini,foundation,Cosmetics/SkinCare,Lab Series,Zodiac Powder Compact,(none),$75.00 ,0,75
+136,Pisces,foundation,Cosmetics/SkinCare,MAC Cosmetics,Zodiac Powder Compact,(none),$75.00 ,0,75
+137,Sagittarius,foundation,Cosmetics/SkinCare,Origins,Zodiac Powder Compact,(none),$75.00 ,0,75
+138,Taurus,foundation,Cosmetics/SkinCare,Prescriptives,Zodiac Powder Compact,(none),$75.00 ,0,75
+139,Double Wear Brush-On Glow BB,highlighter,Cosmetics/SkinCare,Smashbox,Highlighter,Brightens; Conceals; Highlights.,$32.00 ,0,32
+140,Bronze Goddess,bronzer,Cosmetics/SkinCare,Too Faced[28],Illuminating Powder Gel�e,Luxe gel�e bronzer for luminous radiance.,$43.00 ,0,43
+141,Pure Color Envy,lipstick,Cosmetics/SkinCare,Tom Ford Beauty,Sculpting Lipstick Deluxe Mini,Statement-making; lip-shaping color. Creme finish.,$10.00 ,0,10
+142,Youth-Dew,multi-product set,Cosmetics/SkinCare,Clinique,Rich Luxuries,2-piece collection. $63.00 Value.,$43.00 ,0,43
+143,Beautiful,multi-product set,Cosmetics/SkinCare,Est�e Lauder,Romantic Favorites,3-piece collection. $129.00 Value.,$86.00 ,0,86
+144,Pleasures,multi-product set,Cosmetics/SkinCare,Est�e Lauder,Simple Moments,3-piece collection. Value $142.00.,$99.00 ,0,99
+145,Beautiful Belle,multi-product set,Cosmetics/SkinCare,Est�e Lauder,Romantic Promises,3-piece collection. $139 Value.,$96.00 ,0,96
+146,Beautiful Magnolia,eau de parfum,fragrance,Kiton,Eau de Parfum Spray,Romantic; Feminine; Floral,$75.00 ,$75.00 - $128.00,75
+147,Beautiful Magnolia,eau de parfum,fragrance,Le Labo,Eau de Parfum Travel Spray,Romantic; Feminine; Floral,$28.00 ,0,28
+148,Beautiful Magnolia,hand cream,Cosmetics/SkinCare,MAC Cosmetics,Nourishing Hand Cream,Lightweight; fast-absorbing moisture for hands.,$20.00 ,0,20
+149,Beautiful,eau de parfum,fragrance,DKNY Fragrances,Eau de Parfum Spray,Rich. Romantic. Luxurious.,$32.00 ,$32.00 - $130.00,32
+150,Beautiful,perfume,fragrance,Michael Kors Beauty,Absolu,A new concentration; in a package that�s a work of art.,$98.00 ,0,98
+151,Beautiful,body lotion,Cosmetics/SkinCare,GLAMGLOW,Perfumed Body Lotion,Lightweight; smoothing hydration.,$55.00 ,0,55
+152,Beautiful,body powder,Cosmetics/SkinCare,Lab Series,Perfumed Body Powder,Silky; smooth and comforting,$60.00 ,0,60
+153,Beautiful Belle,eau de parfum,fragrance,Aramis,Eau de Parfum Spray,Romantic; Carefree; Irreverent,$75.00 ,$75.00 - $128.00,75
+154,Beautiful Belle,eau de parfum,fragrance,By Kilian,Eau de Parfum Rollerball,Take it wherever you go,$28.00 ,0,28
+155,Beautiful Belle,body lotion,Cosmetics/SkinCare,Dr.Jart+,Refreshing Body Lotion,Lightweight; smoothing hydration.,$55.00 ,0,55
+156,Modern Muse,eau de parfum,fragrance,Donna Karan Cosmetics,Eau de Parfum Spray,Confident; Independent; Inspiring,$45.00 ,$45.00 - $128.00,45
+157,Est�e Lauder Pleasures,eau de parfum,fragrance,Tommy Hilfiger Toiletries,Eau de Parfum Spray,Soft; Joyful; Luminous,$32.00 ,$32.00 - $130.00,32
+158,Est�e Lauder Pleasures Intense,eau de parfum,fragrance,Lauder (Fragrances),Eau de Parfum Spray,Velvety; Voluptuous; Intensely Feminine,$73.00 ,$73.00 - $98.00,73
+159,Bronze Goddess,eau de parfum,fragrance,Ermenegildo Zegna Perfumes,Eau de Parfum,All heat. All desire.,$80.00 ,$80.00 - $105.00,80
+160,Bronze Goddess,eau fraiche,fragrance,Ermenegildo Zegna Perfumes,Eau Fra�che Skin scent,All heat. All desire.,$68.00 ,$68.00 - $84.00,68
+161,Bronze Goddess,body oil,Cosmetics/SkinCare,Tom Ford Beauty,Shimmering Oil Spray for Hair & Body,Shimmers and softens skin with a sensual sheen.,$50.00 ,0,50
+162,Bronze Goddess Azur,eau de toilette,fragrance,The Ordinary by Brandon Truaxe,Eau de Toilette,Fresh. Vibrant. Seductive.,$68.00 ,0,68
+163,Bronze Goddess,body cream,Cosmetics/SkinCare,Tom Ford Beauty,Creme de Soleil Decadent Smoothing Body Creme,Super-luxurious creme smooths and nourishes skin.,$55.00 ,0,55
+164,Private Collection Tuberose Gardenia,eau de parfum,fragrance,Tommy Hilfiger Toiletries,Eau de Parfum Spray,Timeless; Luxurious; Elegant,$61.20 ,$61.20 - $170.00,61.2
+165,Private Collection,body spray,fragrance,Tommy Hilfiger Toiletries,Estee Lauder Eau de Private Collection Spray,Rare; Feminine; Precious,$68.00 ,0,68
+166,Youth-Dew,eau de parfum,fragrance,The Ordinary by Brandon Truaxe,Eau de Parfum Spray,Sexy; Exotic; Opulent,$42.00 ,0,42
+167,Youth-Dew,eau de parfum,fragrance,Tommy Hilfiger Toiletries,Eau de Parfum Spray in Classic Bottle,Sexy; Exotic; Opulent,$42.00 ,0,42
+168,Youth-Dew,body oil,Cosmetics/SkinCare,Tom Ford Beauty,Bath Oil,Wear it or use for bathtime,$45.00 ,0,45
+169,Youth-Dew,body cream,Cosmetics/SkinCare,Tom Ford Beauty,Perfumed Body Creme,Rich; smoothing moisture,$42.00 ,0,42
+170,Youth-Dew,body lotion,Cosmetics/SkinCare,Darphin,Body Satin�e,Lightweight; smoothing hydration,$36.00 ,0,36
+171,White Linen,eau de parfum,fragrance,Tommy Hilfiger Toiletries,Eau de Parfum Spray,Cool; Clean; Crisp,$72.00 ,$72.00 - $82.00,72
+172,White Linen,body cream,Cosmetics/SkinCare,Tom Ford Beauty,Perfumed Body Creme,Rich; smoothing moisture,$55.00 ,0,55
+173,Azur�e,eau de parfum,fragrance,The Ordinary by Brandon Truaxe,Eau de Parfum Spray,Radiant; Sunlit; Warm,$58.00 ,0,58
+174,Est�e Lauder Beyond Paradise,eau de parfum,fragrance,Tommy Hilfiger Toiletries,Eau de Parfum Spray,Radiant; Intriguing; Intoxicating,$73.00 ,0,73
+175,Cinnabar,eau de parfum,fragrance,The Ordinary by Brandon Truaxe,Eau de Parfum Spray,Exotic; Mysterious; Warm,$58.00 ,0,58
+176,Est�e,cologne,fragrance,Editions de Parfums Fr�d�ric Malle,Super Cologne Spray,Classic; Feminine; Sparkling,$58.00 ,0,58
+177,Intuition,eau de parfum,fragrance,The Ordinary by Brandon Truaxe,Eau de Parfum Spray,Luminous; Warm; Sensual,$73.00 ,0,73
+178,SpellBound,eau de parfum,fragrance,Michael Kors Beauty,Eau de Parfum Spray,Irresistible; Spicy; Rich,$73.00 ,0,73
+179,Est�e Lauder Sensuous,eau de parfum,fragrance,Michael Kors Beauty,Eau de Parfum Spray,Warm; Luminous; Feminine,$75.00 ,$75.00 - $98.00,75
+180,Knowing,eau de parfum,fragrance,The Ordinary by Brandon Truaxe,Eau de Parfum Spray,Sophisticated; Luxurious; Confident,$65.00 ,$65.00 - $90.00,65
+181,Lauder Pleasures For Men,cologne,fragrance,RODIN olio lusso[29],Cologne Spray,Crisp; Clean; Energizing,$76.00 ,0,76
+182,Lauder For Men,cologne,fragrance,The Ordinary by Brandon Truaxe,Cologne Spray,Fresh; Clean; Exhilarating,$70.00 ,0,70
+183,Pleasures Ice Skate,solid perfume,fragrance,Ermenegildo Zegna Perfumes,Perfume Compact,Collectible solid perfume compact.,$200.00 ,0,200
+184,Est�e Lauder X Disney: Pleasures Under the Sea,solid perfume,fragrance,Kiton,Perfume Compact by Monica Rich Kosann,Collectible solid perfume compact.,$300.00 ,0,300
+185,Est�e Lauder X Disney: Beautiful True Love�s Kiss,solid perfume,fragrance,The Ordinary by Brandon Truaxe,Perfume Compact by Monica Rich Kosann,Collectible solid perfume compact.,$250.00 ,0,250
+186,Est�e Lauder X Disney: Beautiful Just One Bite,solid perfume,fragrance,Tommy Hilfiger Toiletries,Perfume Compact by Monica Rich Kosann,Collectible solid perfume compact.,$250.00 ,0,250
+187,Est�e Lauder X Disney: Beautiful Belle Light The Way To Your Dreams,solid perfume,fragrance,The Ordinary by Brandon Truaxe,Perfume Compact by Monica Rich Kosann,Collectible solid perfume compact.,$250.00 ,0,250
+188,Est�e Lauder X Disney: Pleasures True to Your Heart,solid perfume,fragrance,Editions de Parfums Fr�d�ric Malle,Perfume Compact by Monica Rich Kosann,Collectible solid perfume compact.,$275.00 ,0,275
+189,Rose De Grasse Pour Filles,eau de toilette,fragrance,The Ordinary by Brandon Truaxe,Eau de Toilette,Floral Rose,$90.00 ,0,90
+190,Mediterranean Honeysuckle in Bloom,body spray,fragrance,Tommy Hilfiger Toiletries,Purse Spray,Floral Bouquet. Travel spray perfect for your purse.,$30.00 ,0,30
+191,Rose,body cream,Cosmetics/SkinCare,Darphin,Hand & Body Cream,Joyful silky rose cream with a smooth finish.,$42.00 ,$42.00 - $68.00,42
+192,Wild Geranium,eau de parfum,fragrance,Ermenegildo Zegna Perfumes,Eau de Parfum,Radiant. Floral. Enchanting.,$130.00 ,$130.00 - $180.00,130
+193,Wild Geranium,body cream,Cosmetics/SkinCare,Est�e Lauder,Body Cream,Rich; luxurious hydrating essential.,$60.00 ,0,60
+194,Wild Geranium,body spray,fragrance,Editions de Parfums Fr�d�ric Malle,Purse Spray,Travel spray perfect for your purse.,$30.00 ,0,30
+195,Aegea Blossom,eau de parfum,fragrance,RODIN olio lusso[29],Eau de Parfum,Luminous. Pure. Glowing.,$130.00 ,$130.00 - $180.00,130
+196,Aegea Blossom,body cream,Cosmetics/SkinCare,Editions de Parfums Fr�d�ric Malle,Body Cream,Rich; luxurious hydrating essential.,$60.00 ,0,60
+197,Aegea Blossom,body spray,fragrance,Kiton,Purse Spray,Travel spray perfect for your purse.,$30.00 ,0,30
+198,Mediterranean Honeysuckle,eau de parfum,fragrance,Editions de Parfums Fr�d�ric Malle,Eau de Parfum,Sparkling. Lush. Fresh.,$135.00 ,$135.00 - $185.00,135
+199,Mediterranean Honeysuckle,body cream,Cosmetics/SkinCare,Est�e Lauder,Body Cream,Rich; luxurious hydrating essential.,$60.00 ,0,60
+200,Amber Musk,eau de parfum,fragrance,The Ordinary by Brandon Truaxe,Eau de Parfum,Velvety. Warm. Enveloping.,$135.00 ,$135.00 - $185.00,135
+201,Amber Musk d�Or,eau de parfum,fragrance,Editions de Parfums Fr�d�ric Malle,Eau de Parfum,Sensual. Amber. Opulent.,$240.00 ,0,240
+202,Amber Musk,body spray,fragrance,Kiton,Purse Spray,Travel spray perfect for your purse.,$30.00 ,0,30
+203,Amber Musk,body cream,Cosmetics/SkinCare,Lab Series,Body Cream,Rich; luxurious hydrating essential.,$60.00 ,0,60
+204,Hibiscus Palm,eau de parfum,fragrance,Ermenegildo Zegna Perfumes,Eau de Parfum,Lush. Solar. Exotic.,$130.00 ,$130.00 - $180.00,130
+205,Hibiscus Palm,body spray,fragrance,Tommy Hilfiger Toiletries,Purse Spray,Travel spray perfect for your purse.,$30.00 ,0,30
+206,Lilac Path,eau de parfum,fragrance,The Ordinary by Brandon Truaxe,Eau de Parfum,Crisp. Delicate. Lush.,$135.00 ,$135.00 - $185.00,135
+207,Lilac Path,body cream,Cosmetics/SkinCare,Lab Series,Body Cream,Rich; luxurious hydrating essential.,$60.00 ,0,60
+208,Tangier Vanille,eau de parfum,fragrance,RODIN olio lusso[29],Eau de Parfum,Glowing. Warm. Sensual.,$135.00 ,$135.00 - $185.00,135
+209,Tangier Vanille d�Or,eau de parfum,fragrance,Editions de Parfums Fr�d�ric Malle,Eau de Parfum,(none),$240.00 ,0,240
+210,Tangier Vanille,body cream,Cosmetics/SkinCare,Origins,Body Cream,Rich; luxurious hydrating essential.,$60.00 ,0,60
+211,Evening Rose,eau de parfum,fragrance,RODIN olio lusso[29],Eau de Parfum,Alluring. Luxurious. Warm.,$135.00 ,$135.00 - $185.00,135
+212,Evening Rose d'Or,eau de parfum,fragrance,The Ordinary by Brandon Truaxe,Eau de Parfum,Alluring. Romantic. Rich.,$240.00 ,0,240
+213,Evening Rose,body spray,fragrance,Ermenegildo Zegna Perfumes,Purse Spray,Travel spray perfect for your purse.,$30.00 ,0,30
+214,Evening Rose,body cream,Cosmetics/SkinCare,Origins,Body Cream,Rich; luxurious hydrating essential.,$60.00 ,0,60
+215,Ikat Jasmine,eau de parfum,fragrance,Editions de Parfums Fr�d�ric Malle,Eau de Parfum,Soft. Fresh. Velvety.,$135.00 ,$135.00 - $185.00,135
+216,Ikat Jasmine,body cream,Cosmetics/SkinCare,DECIEM by Brandon Truaxe,Body Cream,Rich; luxurious hydrating essential.,$60.00 ,0,60
+217,Ikat Jasmine,body spray,fragrance,RODIN olio lusso[29],Purse Spray,Travel spray perfect for your purse.,$30.00 ,0,30
+218,Waterlily Sun,eau de parfum,fragrance,Editions de Parfums Fr�d�ric Malle,Eau de Parfum,Bright. Dewy. Tranquil.,$135.00 ,$135.00 - $185.00,135
+219,Gardenia Rattan,eau de parfum,fragrance,Editions de Parfums Fr�d�ric Malle,Eau de Parfum,Lush. Floral. Warm.,$135.00 ,$135.00 - $185.00,135
+220,Iris Meadow,body cream,Cosmetics/SkinCare,Prescriptives,Body Cream,Rich; luxurious hydrating essential.,$60.00 ,0,60
+221,Ambrette de Noir,perfume,fragrance,Tommy Hilfiger Toiletries,Parfum,Oriental. Floral. Amber.,$240.00 ,$240.00 - $335.00,240
+222,Limone di Sicilia,perfume,fragrance,Ermenegildo Zegna Perfumes,Parfum,Radiant. Luxurious. Joyful.,$235.00 ,$235.00 - $325.00,235
+223,Limone di Sicilia,body cream,Cosmetics/SkinCare,BECCA,Body Cream,Rich; luxurious hydrating essential.,$90.00 ,0,90
+224,�clat de Vert,perfume,fragrance,Tommy Hilfiger Toiletries,Parfum,Green. Vibrant. Intriguing.,$235.00 ,$235.00 - $325.00,235
+225,�clat de Vert,body cream,Cosmetics/SkinCare,BECCA,Body Cream,Rich; luxurious hydrating essential.,$90.00 ,0,90
+226,Rose de Grasse,perfume,fragrance,RODIN olio lusso[29],Parfum,Feminine. Rare. Timeless.,$240.00 ,$240.00 - $335.00,240
+227,Rose de Grasse,body cream,Cosmetics/SkinCare,La Mer,Body Cream,Rich; luxurious hydrating essential.,$90.00 ,0,90
+228,Rose de Grasse,body wash,Cosmetics/SkinCare,Tom Ford Beauty,Body Wash,Refreshing; lightly scented luxury.,$65.00 ,0,65
+229,Rose de Grasse,body spray,fragrance,Aramis,Purse Spray,(none),$90.00 ,0,90
+230,Rose de Grasse,body spray,fragrance,The Ordinary by Brandon Truaxe,Purse Spray Refillable Vials,(none),$100.00 ,0,100
+231,Tuberose Le Jour,perfume,fragrance,Kiton,Parfum,Luminous. Exquisite. Floral.,$240.00 ,$240.00 - $335.00,240
+232,Tuberose Le Soir,perfume,fragrance,By Kilian,Parfum,Sensual. Floral. Luxurious.,$240.00 ,$240.00 - $335.00,240
+233,Tuberose Le Soir,perfume,fragrance,By Kilian,Parfum,Sensual. Floral. Luxurious.,$240.00 ,$240.00 - $335.00,240
+234,Tuberose Le Soir,perfume,fragrance,By Kilian,Parfum,Sensual. Floral. Luxurious.,$240.00 ,$240.00 - $335.00,240
+235,Tuberose Le Soir,perfume,fragrance,By Kilian,Parfum,Sensual. Floral. Luxurious.,$240.00 ,$240.00 - $335.00,240
