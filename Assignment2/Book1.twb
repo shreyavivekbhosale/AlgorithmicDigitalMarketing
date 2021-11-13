@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20212.21.0712.0907                               -->
+<workbook original-version='18.1' source-build='2021.2.1 (20212.21.0712.0907)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='Reviews_Dataset_Final_Team3' inline='true' name='federated.113qw3f0xbsg0t0zoawqm1upgm58' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Reviews_Dataset_Final_Team3' name='textscan.0qvsaer0gma4z318xp3sc0ws5st0'>
+            <connection class='textscan' directory='C:/Users/Shreya Vivek Bhosale/Downloads' filename='Reviews_Dataset_Final_Team3.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0qvsaer0gma4z318xp3sc0ws5st0' name='Reviews_Dataset_Final_Team3.csv' table='[Reviews_Dataset_Final_Team3#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Review' ordinal='0' />
+            <column datatype='string' name='Label' ordinal='1' />
+            <column datatype='integer' name='Rating' ordinal='2' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0qvsaer0gma4z318xp3sc0ws5st0' name='Reviews_Dataset_Final_Team3.csv' table='[Reviews_Dataset_Final_Team3#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Review' ordinal='0' />
+            <column datatype='string' name='Label' ordinal='1' />
+            <column datatype='integer' name='Rating' ordinal='2' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Reviews_Dataset_Final_Team3.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Review</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Review]</local-name>
+            <parent-name>[Reviews_Dataset_Final_Team3.csv]</parent-name>
+            <remote-alias>Review</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Reviews_Dataset_Final_Team3.csv_43A0D1E2285C4319A45D8B44499D3DFA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Label</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Label]</local-name>
+            <parent-name>[Reviews_Dataset_Final_Team3.csv]</parent-name>
+            <remote-alias>Label</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Reviews_Dataset_Final_Team3.csv_43A0D1E2285C4319A45D8B44499D3DFA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Rating</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Rating]</local-name>
+            <parent-name>[Reviews_Dataset_Final_Team3.csv]</parent-name>
+            <remote-alias>Rating</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Reviews_Dataset_Final_Team3.csv_43A0D1E2285C4319A45D8B44499D3DFA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <_.fcp.ObjectModelTableType.true...column caption='Reviews_Dataset_Final_Team3.csv' datatype='table' name='[__tableau_internal_object_id__].[Reviews_Dataset_Final_Team3.csv_43A0D1E2285C4319A45D8B44499D3DFA]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Reviews_Dataset_Final_Team3.csv' id='Reviews_Dataset_Final_Team3.csv_43A0D1E2285C4319A45D8B44499D3DFA'>
+            <properties context=''>
+              <relation connection='textscan.0qvsaer0gma4z318xp3sc0ws5st0' name='Reviews_Dataset_Final_Team3.csv' table='[Reviews_Dataset_Final_Team3#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Review' ordinal='0' />
+                  <column datatype='string' name='Label' ordinal='1' />
+                  <column datatype='integer' name='Rating' ordinal='2' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Reviews against Ratings</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Reviews_Dataset_Final_Team3' name='federated.113qw3f0xbsg0t0zoawqm1upgm58' />
+          </datasources>
+          <datasource-dependencies datasource='federated.113qw3f0xbsg0t0zoawqm1upgm58'>
+            <column datatype='string' name='[Label]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Rating]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Review]' role='dimension' type='nominal' />
+            <column-instance column='[Label]' derivation='None' name='[none:Label:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Review]' derivation='None' name='[none:Review:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Rating]' derivation='Sum' name='[sum:Rating:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.113qw3f0xbsg0t0zoawqm1upgm58].[none:Label:nk]' />
+              <lod column='[federated.113qw3f0xbsg0t0zoawqm1upgm58].[none:Review:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.113qw3f0xbsg0t0zoawqm1upgm58].[sum:Rating:qk]</rows>
+        <cols />
+      </table>
+      <simple-id uuid='{2F1B8A9D-36B8-4929-BE6C-6DD2D66B61AC}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.5' source-height='44'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.113qw3f0xbsg0t0zoawqm1upgm58].[none:Label:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.113qw3f0xbsg0t0zoawqm1upgm58].[none:Label:nk]</field>
+            <field>[federated.113qw3f0xbsg0t0zoawqm1upgm58].[none:Review:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{882F7190-578A-4566-BA8B-4CB912815512}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='131'>
+      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
+      AAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
