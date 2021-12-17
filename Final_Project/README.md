@@ -18,8 +18,11 @@ Streamlit Analytics Dashboard - https://share.streamlit.io/shreyavivekbhosale/al
 Recommendation Webapp - https://olist-marketing-analytics.herokuapp.com/ 
 
 Marketing Dashboard -
+
 Tableau -  https://public.tableau.com/app/profile/sushmitha.jogula/viz/Monthly_Churn_Rate/MonthlyChurnRate?publish=yes
+
 Tableau - https://public.tableau.com/app/profile/sushmitha.jogula/viz/ADM_Project_Tableau/GlobalSuperstoreMarketingDashboard
+
 PowerBI - https://app.powerbi.com/groups/me/dashboards/dc7e46b9-a78e-4d8e-b594-ed107c7f01a7
 
 CLAAT Document - https://docs.google.com/document/d/1i51Y_igbS8cJslS8NrnzyApCPcPALS2D62GBdZKebiY/edit?usp=sharing
