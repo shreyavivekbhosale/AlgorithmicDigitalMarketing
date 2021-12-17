@@ -13,14 +13,15 @@ Youtube video link:
 
 Web Application link - Final Demo: 
 
-Olist Streamlit Analytics Dashboard - https://olist-streamlit-dashboard.herokuapp.com/
+Streamlit Analytics Dashboard - https://share.streamlit.io/shreyavivekbhosale/alorithmicdigitalmarketing_heroku/main/recc.py
 
 Recommendation Webapp - https://olist-marketing-analytics.herokuapp.com/ 
 
 Marketing Dashboard -
-Tableau -  https://prod-useast-a.online.tableau.com/#/site/mohodhruda/views/OlistMarketingDashboard/Dashboard
-PowerBI - 
+Tableau -  https://public.tableau.com/app/profile/sushmitha.jogula/viz/Monthly_Churn_Rate/MonthlyChurnRate?publish=yes
+Tableau - https://public.tableau.com/app/profile/sushmitha.jogula/viz/ADM_Project_Tableau/GlobalSuperstoreMarketingDashboard
+PowerBI - https://app.powerbi.com/groups/me/dashboards/dc7e46b9-a78e-4d8e-b594-ed107c7f01a7
 
-CLAAT Document - https://docs.google.com/document/d/1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM/edit#heading=h.ax8bqte2btx2
+CLAAT Document - https://docs.google.com/document/d/1i51Y_igbS8cJslS8NrnzyApCPcPALS2D62GBdZKebiY/edit?usp=sharing
 
-CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM#0
+CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1i51Y_igbS8cJslS8NrnzyApCPcPALS2D62GBdZKebiY#0
