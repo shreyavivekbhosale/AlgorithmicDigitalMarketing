@@ -13,9 +13,7 @@ Youtube video link:
 
 Web Application link - Final Demo: 
 
-Streamlit Analytics Dashboard - https://share.streamlit.io/shreyavivekbhosale/alorithmicdigitalmarketing_heroku/main/recc.py
-
-Recommendation Webapp - https://olist-marketing-analytics.herokuapp.com/ 
+Recommendation Webapp - https://share.streamlit.io/sushmithajogula/admheroku/main/reccccc.py
 
 Marketing Dashboard -
 
